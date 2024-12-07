@@ -2,8 +2,6 @@
 
 ## Atalhos
 
-<hr/>
-
 <h4 style="color: aquamarine;">Atalhos de vizualização do vscode</h4>
 
 <p><code>ctrl + B</code> : mostra e esconde barra lateral de arquivos.</p>
@@ -43,8 +41,6 @@
 <p><code>ctrl + shift +p</code> : existem várias possibilidades.</p>
 
 ## Extensões
-
-<hr/>
 
 <h4 style="color: aquamarine;">Extenções gerais</h4>
 
